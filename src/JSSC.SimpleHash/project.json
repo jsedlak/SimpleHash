@@ -1,0 +1,20 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "JSSC.SimpleHash Class Library",
+    "authors": [ "John Sedlak (JSSC)" ],
+    "tags": [ "" ],
+    "projectUrl": "https://github.com/jsedlak/SimpleHash",
+    "licenseUrl": "https://raw.githubusercontent.com/jsedlak/SimpleHash/master/LICENSE",
+
+    "dependencies": {
+        "System.Collections": "4.0.10-beta-23109",
+        "System.Linq": "4.0.0-beta-23109",
+        "System.Threading": "4.0.10-beta-23109",
+        "System.Runtime": "4.0.10-beta-23109",
+        "Microsoft.CSharp": "4.0.0-beta-23109"
+    },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
